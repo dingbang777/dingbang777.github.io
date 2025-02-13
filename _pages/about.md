@@ -14,9 +14,9 @@ My research interests mainly lies in Generative Models and Embodied AI. I have b
 Education
 ======
 **Shanghai Jiao Tong University**   
-* Undergraduate Student  Sept. 2022 - Present
-Major in Physics, Minor in Computer Science and Technology 
-Overall GPA: 3.99, Average score: 91.65, **Rank: 2/54**
+Undergraduate Student         Sept. 2022 - Present
+* Major in Physics, Minor in Computer Science and Technology 
+* Overall GPA: 3.99, Average score: 91.65, **Rank: 2/54**
 
 
 Publication

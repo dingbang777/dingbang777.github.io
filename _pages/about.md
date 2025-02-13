@@ -22,8 +22,8 @@ Undergraduate Student
 Publication
 ======
 **Memorize My Movement: Efficient Sensorimotor Navigation with Self-motion-based Spatial Cognition.**
-Qiming Liu, \underline{Dingbang Huang}, Zhe Liu, and Hesheng Wang.\\
-\emph{IEEE Transactions on Automation Science and Engineering \textbf{(T-ASE)}
+Qiming Liu, __Dingbang Huang__, Zhe Liu, and Hesheng Wang.
+IEEE Transactions on Automation Science and Engineering **(T-ASE)**
 
 
 

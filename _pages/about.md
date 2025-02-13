@@ -14,14 +14,20 @@ My research interests mainly lies in Generative Models and Embodied AI. I have b
 Education
 ======
 **Shanghai Jiao Tong University**   
-Undergraduate Student  <pre> Sept. 2022 - Present
+Undergraduate Student
 * Major in Physics, Minor in Computer Science and Technology 
 * Overall GPA: 3.99, Average score: 91.65, **Rank: 2/54**
 
 
 Publication
 ======
-**Memorize My Movement: Efficient Sensorimotor Navigation with Self-motion-based Spatial Cognition**
+**Memorize My Movement: Efficient Sensorimotor Navigation with Self-motion-based Spatial Cognition.**
+Qiming Liu, \underline{Dingbang Huang}, Zhe Liu, and Hesheng Wang.\\
+\emph{IEEE Transactions on Automation Science and Engineering \textbf{(T-ASE)}
+
+
+
+
 
 Site-wide configuration
 ------

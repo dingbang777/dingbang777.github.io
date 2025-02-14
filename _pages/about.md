@@ -22,11 +22,11 @@ Education
 Publication
 ======
 **Memorize My Movement: Efficient Sensorimotor Navigation with Self-motion-based Spatial Cognition.**  
-Qiming Liu, <u>Dingbang Huang </u>, Zhe Liu, and Hesheng Wang.  
+Qiming Liu, <u>Dingbang Huang</u>, Zhe Liu, and Hesheng Wang.  
 IEEE Transactions on Automation Science and Engineering **(T-ASE)**  
 
 **Reconstructing In-the-Wild Open-Vocabulary Human-Object Interactions.**  
-Boran Wen, \underline{Dingbang Huang}, Zichen Zhang, Jiahong Zhou,Jianbin Deng,Jingyu Gong,Yulong Chen,Lizhuang Ma,Yong-Lu Li.  
+Boran Wen, <u>Dingbang Huang</u>, Zichen Zhang, Jiahong Zhou,Jianbin Deng,Jingyu Gong,Yulong Chen,Lizhuang Ma,Yong-Lu Li.  
 Conference on Computer Vision and Pattern Recognition 2025 **(CVPR)** under review
 
 

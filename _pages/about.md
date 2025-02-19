@@ -14,7 +14,7 @@ My research interests mainly lies in **Generative Models** and **Embodied AI**. 
 
 Education
 ======
-**Shanghai Jiao Tong University**   
+**Shanghai Jiao Tong University** 
 * Undergraduate Student
 * Major in Physics, Minor in Computer Science and Technology 
 * Overall GPA: 3.99, Average score: 91.65, **Rank: 2/54**

@@ -22,7 +22,7 @@ repository               : "dingbang777/dingbang777.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "e27373ba0f19cf3699ed4643b36d28f.jpg"
   name             : "Dingbang Huang"
   pronouns         : # example: "she/her"  
   bio              : "Undergrate at SJTU, interested in computer vision, generative models and embodied AI."

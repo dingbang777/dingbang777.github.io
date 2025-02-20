@@ -61,6 +61,7 @@ Selected Awards
 Skills
 ======
 **Skills**  Python(Numpy, Pytorch, Diffusers...), Linux, LaTex, Git&Github, C++, Matlab, RISC-V, SQL, ROS, Habitat 
+
 **Languages** English(CET4: 648), Mandarin(native), Cantonese(native)
 
 

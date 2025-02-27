@@ -28,7 +28,7 @@ IEEE Transactions on Automation Science and Engineering **(T-ASE)**
 
 **Reconstructing In-the-Wild Open-Vocabulary Human-Object Interactions.**  
 Boran Wen, <u>Dingbang Huang</u>, Zichen Zhang, Jiahong Zhou,Jianbin Deng,Jingyu Gong,Yulong Chen,Lizhuang Ma,Yong-Lu Li.  
-Conference on Computer Vision and Pattern Recognition 2025 **(CVPR)** under review
+Conference on Computer Vision and Pattern Recognition 2025 **(CVPR)** 
 
 
 

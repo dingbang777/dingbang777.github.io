@@ -10,7 +10,6 @@ Hi, I am a third-year undergraduate student at Shanghai Jiao Tong University, ad
 
 My research interests mainly lies in **Generative Models** and **Embodied AI**. I have background in image generation, 3D human-object interaction and robotic navigation. Now I am pretty interested in **human motion modeling**, **its interaction with object and scene** and its application in **robotics**.
 
-**I am actively looking for internship opportunity during the summer of 2025!**
 
 Education
 ======

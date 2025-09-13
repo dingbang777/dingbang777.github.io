@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hi, I am a third-year undergraduate student at Shanghai Jiao Tong University, advised by [Prof. Cewu Lu](https://www.mvig.org/) and [Prof. Yong-Lu Li](https://dirtyharrylyl.github.io/) at MVIG-RHOS. I also intern at Shanghai AI Laboratory, advised by [Prof. Bo Dai](https://daibo.info/) and [Yanhong Zeng](https://zengyh1900.github.io/). Previously, I was a research intern at IRMV, advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng).
 
-My research interests mainly lies in **Computer Graphics** and **Character Animation**. I have background in image generation, 3D human-object interaction and robotic navigation. Now I am pretty interested in **human motion modeling**, and **its interaction with object and scene**.
+My research interests mainly lies in **Computer Graphics** and **Character Animation**. I have background in image generation, 3D human-object interaction and navigation. Now I am pretty interested in **human motion modeling**, and **its interaction with object and scene**.
 
 
 Education
